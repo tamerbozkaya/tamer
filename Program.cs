@@ -11,6 +11,7 @@ namespace WinFormsApp1
         /// <summary>
         ///  The main entry point for the application.
         /// </summary>
+        /// Merhaba Tamer Kodlarýnda hata var düzelttim
         [STAThread]
         static void Main()
         {
